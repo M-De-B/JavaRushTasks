@@ -1,0 +1,21 @@
+﻿#############
+## Idea
+#############
+target/
+.idea/
+.idea
+.repository/
+*.iml
+*.iws
+*.jrtc
+*.info
+*.properties
+*.attach*
+/your.file.name
+/.attach_pid3448
+/.attach_pid11155
+/5.OnlineInternship/
+/out/
+/JavaRushPlugin.properties
+/Инструкция.png
+/out.log
